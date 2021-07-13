@@ -16,7 +16,7 @@
 2. WPS office for reading txt file
 3. Online tools for creating uml dig.
 
-# badges
+# Badges
 
 ![code_grade](https://www.code-inspector.com/project/25122/status/svg)
  

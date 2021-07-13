@@ -16,14 +16,16 @@
 2. WPS office for reading txt file
 3. Online tools for creating uml dig.
 
+
+
 # Badges
 
-![code_grade](https://www.code-inspector.com/project/25122/status/svg)
+   CODE-INSPECTOR  ![code_grade](https://www.code-inspector.com/project/25122/status/svg)
  
-![code_quality_score](https://www.code-inspector.com/project/25122/score/svg)
+   CODE-INSPECTOR  ![code_quality_score](https://www.code-inspector.com/project/25122/score/svg)
 
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e04653caca82466eb906cfad5c9149d2)](https://www.codacy.com/gh/Zualahmed/LTTS-C-project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Zualahmed/LTTS-C-project&amp;utm_campaign=Badge_Grade)
+   CODACY  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e04653caca82466eb906cfad5c9149d2)](https://www.codacy.com/gh/Zualahmed/LTTS-C-project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Zualahmed/LTTS-C-project&amp;utm_campaign=Badge_Grade)
 
 
 
@@ -45,19 +47,28 @@ Visit [Pages for Report -optional](using github.io option)
 | `3_Implementation` | All code and documentation                    |
 | `4_Test_plan`      | Documents with test plans and procedures      |
 
-## Contributors List and Summary
+## Contribution List
 
-| PS No. | Name     | Features         | Issuess Raised | Issues Resolved | No Test Cases | Test Case Pass |
-| ------ | -------- | ---------------- | -------------- | --------------- | ------------- | -------------- |
-| `ABC`  | 12345678 | Feature A, B etc | X No           | X No            | X No          | X No           |
-| `DEF`  | 12345678 | Feature C, D etc | X No           | X No            | X No          | X No           |
+| SF ID  | Name          | 
+|--------|-------------- |
+| 315151 | Zual Ahmed    | 
+
+## Features Table 
+
+|Sr. No. | Features                             |
+|--------|------------------------------------  |
+| 1      | Simple Interface                     |
+| 2      | Accurate output with required values |
+| 3      | User can check balance               |
+| 4      | User can withdraw money              |
+| 5      | User can deposit money               |
 
 ## Challenges Faced and How Was It Overcome
 
-1. ABC
-2. BCD
-3. ...
-4. ...
+1. building workflow, i sneaked through some youtube vidoes did some research and later my friend also hlped me.
+2. managing github through vs code , learnt from the material provided by ltts.
+3. writing test cases, learnt from seeing other repo and from the documentries provided by ltts.
+4. debugging, learnt from youtube annd documentries provided by ltts.
 
 ## Learning Resources
 

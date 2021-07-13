@@ -25,3 +25,44 @@
 5. For Linux use VS code to run the programe them install gcc for it
 6. open terminal and write make a .out file wil be created thrn run ./a.out to execute the programe
 
+
+## 4W's & 1H
+ 
+## When
+   Can be used anytime
+   
+## What
+   machine code to iplement atm system for transaction
+
+## Where
+   Can be used in atm mahine any where
+
+## Who
+   People of all age groups can use it
+
+## How
+1.The option displays the menu
+
+2.From the given option choose the operation
+
+3.Your recipt will be generated automatically
+
+## DETAIL REQUIREMENTS
+## *High Level Requirements* 
+ID  | DESCRIPTION                           | STATUS
+----|---------------------------------------|-------
+HR01| Providing range of Menu available     | IMPLEMENTED
+HR02| As the user fetch balance it shows a predefined balance | IMPLEMENTED
+HR03| Exit from Interface | IMPLEMENTED
+HR04| Continue to interface for continue operation | IMPLEMENTED
+HR05| Adaptive system | IMPLEMENTED
+
+## *Low Level Requirements* 
+ID  | DESCRIPTION                           | STATUS
+----|---------------------------------------|-------
+LR01| View Menu   | IMPLEMENTED
+LR02| View balance | IMPLEMENTED
+LR03| Deposit money | IMPLEMENTED
+LR04|Withdraw money | IMPLEMENTED
+LR05| EXIT| IMPLEMENTED
+

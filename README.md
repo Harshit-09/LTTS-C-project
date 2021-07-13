@@ -18,7 +18,9 @@
 
 # Badges
 
-
+ https://www.code-inspector.com/project/25122/score/svg
+ 
+ https://www.code-inspector.com/project/25122/status/svg
 
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e04653caca82466eb906cfad5c9149d2)](https://www.codacy.com/gh/Zualahmed/LTTS-C-project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Zualahmed/LTTS-C-project&amp;utm_campaign=Badge_Grade)

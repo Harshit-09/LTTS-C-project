@@ -1,7 +1,7 @@
 # Project title
                ** ATM MACHINE **
 
-     I have used  C language to build the application.
+     I have used  C language to build the application. This is a cross paltform application.
      It can perform several operations using user input/choice.
 
 # Requirements

@@ -18,7 +18,7 @@
 
 # Badges
 
-![code_grade](https://www.code-inspector.com/project/25122/score/svg)
+![code_grade](https://www.code-inspector.com/project/25122/status/svg)
  
 ![code_quality_score](https://www.code-inspector.com/project/25122/score/svg)
 

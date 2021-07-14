@@ -35,7 +35,7 @@ With increasing in population people are getting aware of creating bank accounts
    Can be used anytime
    
 ## What
-   machine code to iplement atm system for transaction
+   Machine code to implement atm system for transaction
 
 ## Where
    Can be used in atm mahine any where

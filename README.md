@@ -1,8 +1,21 @@
 # Project title
-               ** ATM MACHINE **
+                                       ** ATM MACHINE **
 
-     I have used  C language to build the application. This is a cross paltform application.
-     It can perform several operations using user input/choice.
+## Introduction
+    This is a simple c language project whcih can be used to perform some bank related task , like withdraw, balance enquiry and deposit. I have used  C language to build the application. This is a cross paltform application. It can perform several operations using user input/choice. 
+     
+## Research
+
+With increasing in population people are getting aware of creating bank accounts and its merit. So it becomes difficult to handle so many transaction by the employee and every coustomer has to wait too long for their turn to come. This software can help coustomer as well as bank employee also to get the basic work done without any timeloss and with less effort.
+
+## FEATURES
+ 1.Transaction are made easy with simple steps
+ 
+ 2.System contains simple interface 
+ 
+
+
+
 
 # Requirements
 1. VS code

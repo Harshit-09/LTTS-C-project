@@ -13,6 +13,9 @@ With increasing in population people are getting aware of creating bank accounts
  
  2.System contains simple interface 
  
+ ## SWOT analysis
+ 
+ ![swot](https://user-images.githubusercontent.com/49717147/125602290-2262af11-bb88-48df-9115-d274d75fb23c.png)
 
 
 

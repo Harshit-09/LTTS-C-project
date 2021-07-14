@@ -38,10 +38,10 @@ With increasing in population people are getting aware of creating bank accounts
    Machine code to implement atm system for transaction
 
 ## Where
-   Can be used in atm mahine any where
+   Can be used in atm machine anywhere
 
 ## Who
-   People of all age groups can use it
+   People of all age groups can use it except below 15yrs
 
 ## How
 1.The option displays the menu

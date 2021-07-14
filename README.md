@@ -15,10 +15,7 @@ With increasing in population people are getting aware of creating bank accounts
  
  ## SWOT analysis
  
- ![swot](https://user-images.githubusercontent.com/49717147/125602290-2262af11-bb88-48df-9115-d274d75fb23c.png)
-
-
-
+ ![SWOT](https://user-images.githubusercontent.com/49717147/125602923-09304357-a40a-4140-9175-aa3d5bc1f747.png)
 
 # Requirements
 1. VS code

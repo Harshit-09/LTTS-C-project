@@ -2,7 +2,7 @@
                                        ** ATM MACHINE **
 
 ## Introduction
-    This is a simple c language project whcih can be used to perform some bank related task , like withdraw, balance enquiry and deposit. I have used  C language to build the application. This is a cross paltform application. It can perform several operations using user input/choice. 
+  This is a simple c language project whcih can be used to perform some bank related task , like withdraw, balance enquiry and deposit. I have used  C language to build the application. This is a cross paltform application. It can perform several operations using user input/choice. 
      
 ## Research
 
